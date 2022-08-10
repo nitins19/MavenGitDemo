@@ -10,6 +10,7 @@ public class TestCalc {
 		System.out.println(msg);
 		int sum=obj.addno(23, 21);
 		System.out.println(sum);
+		System.out.println("new line added");
 	}
 
 }
